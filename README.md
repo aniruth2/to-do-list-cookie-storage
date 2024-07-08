@@ -15,3 +15,13 @@ The To-Do List with Cookie Storage is a straightforward application that allows 
 - **HTML:** Structure of the application.
 - **CSS:** Styling the application for a clean and user-friendly interface.
 - **JavaScript:** Functionality to add, delete, and manage tasks, as well as to handle cookie storage.
+
+### Challenges and Future Enhancements
+- **Challenges:** Managing cookie storage for larger data sets.
+- **Future Enhancements:** Add functionality to edit tasks and implement local storage for improved performance and scalability.
+- 
+## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Credits](#credits)
+4. [License](#license)

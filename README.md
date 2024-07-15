@@ -19,9 +19,26 @@ The To-Do List with Cookie Storage is a straightforward application that allows 
 ### Challenges and Future Enhancements
 - **Challenges:** Managing cookie storage for larger data sets.
 - **Future Enhancements:** Add functionality to edit tasks and implement local storage for improved performance and scalability.
-- 
+  
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Credits](#credits)
 4. [License](#license)
+
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/to-do-list-with-cookie-storage.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd to-do-list-with-cookie-storage
+    ```
+
+3. Open `index.html` in your browser to view the application.

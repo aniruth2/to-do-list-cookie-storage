@@ -42,3 +42,9 @@ To run this project locally:
     ```
 
 3. Open `index.html` in your browser to view the application.
+
+## Usage
+
+1. **Adding Tasks:** Type your task into the input field and press 'Add Task'. The task will appear in the list below.
+2. **Deleting Tasks:** Click the 'Delete' button next to a task to remove it from the list.
+3. **Persistent Storage:** Your tasks will be saved in cookies and will remain available even after you close and reopen your browser.

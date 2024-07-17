@@ -48,3 +48,8 @@ To run this project locally:
 1. **Adding Tasks:** Type your task into the input field and press 'Add Task'. The task will appear in the list below.
 2. **Deleting Tasks:** Click the 'Delete' button next to a task to remove it from the list.
 3. **Persistent Storage:** Your tasks will be saved in cookies and will remain available even after you close and reopen your browser.
+
+
+## Credits
+
+This project was developed by [Aniruth Prabu](https://github.com/aniruth2).

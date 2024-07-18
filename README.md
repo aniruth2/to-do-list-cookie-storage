@@ -53,3 +53,6 @@ To run this project locally:
 ## Credits
 
 This project was developed by [Aniruth Prabu](https://github.com/aniruth2).
+
+Resources and tutorials that were helpful in building this project:
+- [MDN Web Docs on Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
